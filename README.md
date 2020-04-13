@@ -83,6 +83,3 @@ Json:{
 }
 </pre>
 
-#### Observações
-Obrigado pela oportunidade do desafio. Infelizmente não tive como completá-lo em 48 horas. Mas foi uma boa oportunidade para aprender um framework novo (Laravel) e ainda iniciar sobre as técnicas de web scrapping.
-
